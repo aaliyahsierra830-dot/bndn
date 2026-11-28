@@ -13,7 +13,7 @@ const allowedOrigins = [
   'https://boisterous-queijadas-409afa.netlify.app',
   'https://opus3.netlify.app',
   'https://d1ana.netlify.app',
-  'https://sunny-pastelito-8843b7.netlify.app',
+  'https://whyte.netlify.app',
   'https://scottty.netlify.app',
   'https://jhvnb.vercel.app',
    // add all your trusted frontends here
